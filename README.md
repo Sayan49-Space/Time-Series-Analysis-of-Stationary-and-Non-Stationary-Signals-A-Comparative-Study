@@ -1,0 +1,2 @@
+# Time-Series-Analysis-of-Stationary-and-Non-Stationary-Signals-A-Comparative-Study
+Analyzed thermoacoustic experimental datasets from the CTCS Laboratory, IIT Madras (Prof. R. I. Sujith's research group) using MATLAB. Applied FFT, CWT/DWT, EMD, HHT, Delay Embedding, Takens' Phase Space Reconstruction, and the 0–1 Test for Chaos to investigate thermoacoustic instability, nonlinear dynamics, and time–frequency behavior.
